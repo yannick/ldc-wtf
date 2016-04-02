@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"yannick"
+	],
+	"name": "ldc-fail",
+	"license": "proprietary",
+	"copyright": "Copyright © 2016, yannick",
+	"description": "A simple vibe.d server application.",
+	"versions": [
+		"VibeCustomMain"
+	]
+}
